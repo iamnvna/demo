@@ -1,0 +1,4 @@
+#LICENSE INFORMATION
+##APACHE 2.0
+
+This is a simple license file.
